@@ -1,0 +1,34 @@
+{
+  "users": [],
+  "keys": [
+    {
+      "key": "NOVA-DEMO-30D-K8J2-98A1",
+      "days": 30,
+      "isUsed": false,
+      "usedBy": null,
+      "usedAt": null,
+      "createdAt": "2026-11-03T07:59:57.090Z",
+      "note": "Default 30 Days Key"
+    },
+    {
+      "key": "NOVA-VIP-LIFE-X992-ZZ01",
+      "days": 3650,
+      "isUsed": false,
+      "usedBy": null,
+      "usedAt": null,
+      "createdAt": "2026-11-03T07:59:57.091Z",
+      "note": "Lifetime Key"
+    },
+    {
+      "key": "NOVA-TEST-7DAY-77A2-11B3",
+      "days": 7,
+      "isUsed": false,
+      "usedBy": null,
+      "usedAt": null,
+      "createdAt": "2026-11-03T07:59:57.091Z",
+      "note": "Test 7 Days Key"
+    }
+  ],
+  "sessions": [],
+  "logs": []
+}
